@@ -60,4 +60,9 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
+| [0908-middle-of-the-linked-list](https://github.com/ginluv21/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ginluv21/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
