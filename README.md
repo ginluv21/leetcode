@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/ginluv21/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ginluv21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ginluv21/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ginluv21/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ginluv21/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ginluv21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ginluv21/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/ginluv21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ginluv21/leetcode/tree/master/0908-middle-of-the-linked-list) |
