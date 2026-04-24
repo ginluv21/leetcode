@@ -14,6 +14,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ginluv21/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ginluv21/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/ginluv21/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ginluv21/leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/ginluv21/leetcode/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
