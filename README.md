@@ -65,6 +65,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ginluv21/leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,10 +84,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ginluv21/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ginluv21/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ginluv21/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ginluv21/leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
