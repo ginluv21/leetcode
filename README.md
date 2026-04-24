@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | ------- |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ginluv21/leetcode/tree/master/0231-power-of-two) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ginluv21/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Two Pointers
 |  |
 | ------- |
