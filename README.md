@@ -39,6 +39,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ginluv21/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ginluv21/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ginluv21/leetcode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ginluv21/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
