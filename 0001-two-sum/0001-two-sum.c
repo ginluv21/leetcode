@@ -9,7 +9,7 @@ typedef struct Node {
     struct Node* next;
 } Node;
 
-Node* table[SIZE];
+Node* table[SIZE] = {0};
 
 int hash(int key) {
     if(key < 0) key = -key;
@@ -38,9 +38,7 @@ Node* find(int key){
 }
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
-    for(int i = 0; i < SIZE; i++){
-        table[i] = NULL;
-    }
+    memset(table, 0, sizeof(table));
 
     for(int i = 0; i < numsSize; i++){
         int need = target -  nums[i];
