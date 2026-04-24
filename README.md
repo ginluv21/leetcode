@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/ginluv21/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ginluv21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ginluv21/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ginluv21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ginluv21/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/ginluv21/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ginluv21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ginluv21/leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/ginluv21/leetcode/tree/master/0792-binary-search) |
 ## String
