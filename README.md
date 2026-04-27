@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0033-search-in-rotated-sorted-array](https://github.com/ginluv21/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ginluv21/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ginluv21/leetcode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/ginluv21/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ginluv21/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ginluv21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/ginluv21/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ginluv21/leetcode/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/ginluv21/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ginluv21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ginluv21/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ginluv21/leetcode/tree/master/0242-valid-anagram) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ginluv21/leetcode/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ginluv21/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
