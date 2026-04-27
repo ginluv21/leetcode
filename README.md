@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ginluv21/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ginluv21/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ginluv21/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ginluv21/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ginluv21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/ginluv21/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -103,4 +104,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ginluv21/leetcode/tree/master/0155-min-stack) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ginluv21/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
